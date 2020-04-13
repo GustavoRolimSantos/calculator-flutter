@@ -2,8 +2,6 @@
 
 Simple Calculator project from class Mobile Development - Fatec Americana
 
-![Calculator](https://github.com/GustavoRolimSantos/simple-flutter-calculator/blob/master/demo.png)
-
 ### About
 Simple copy of Xiomi Calculator Design.<br>
 
@@ -12,6 +10,8 @@ Dependencies:
 - splashscreen
 - share
 - auto_size_text
+
+![Calculator](https://github.com/GustavoRolimSantos/simple-flutter-calculator/blob/master/demo.png)
 
 ### Copyright
 Developed by Gustavo Santos
