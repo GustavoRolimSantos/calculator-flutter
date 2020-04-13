@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
         home: new SplashScreen(
-            seconds: 14,
+            seconds: 4,
             navigateAfterSeconds: Calculator(),
             title: Text(
               'MaxterCalculator',

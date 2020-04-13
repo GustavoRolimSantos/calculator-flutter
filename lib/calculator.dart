@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'memory.dart';
 import 'package:share/share.dart';
+import 'package:auto_size_text/auto_size_text.dart';
 
 class Calculator extends StatefulWidget {
   @override
@@ -15,7 +16,7 @@ class _CalculatorState extends State<Calculator> {
       child: Container(
         padding: EdgeInsets.only(top: 10, right: 10),
         color: Colors.black,
-        child: Text(
+        child: AutoSizeText(
           memory.result,
           style: TextStyle(
             fontSize: 80,
