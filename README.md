@@ -2,6 +2,8 @@
 
 Simple Calculator project from class Mobile Development - Fatec Americana
 
+![Calculator](https://github.com/GustavoRolimSantos/simple-flutter-calculator/blob/master/demo.png)
+
 ### About
 Simple copy of Xiomi Calculator Design.<br>
 
